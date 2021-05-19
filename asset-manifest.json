@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.d8554c29.chunk.js",
-    "main.js.map": "/static/js/main.d8554c29.chunk.js.map",
+    "main.js": "/static/js/main.411c3f91.chunk.js",
+    "main.js.map": "/static/js/main.411c3f91.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.21533f8c.js",
     "runtime-main.js.map": "/static/js/runtime-main.21533f8c.js.map",
-    "static/js/2.d32b7115.chunk.js": "/static/js/2.d32b7115.chunk.js",
-    "static/js/2.d32b7115.chunk.js.map": "/static/js/2.d32b7115.chunk.js.map",
+    "static/js/2.1c36f2d2.chunk.js": "/static/js/2.1c36f2d2.chunk.js",
+    "static/js/2.1c36f2d2.chunk.js.map": "/static/js/2.1c36f2d2.chunk.js.map",
     "static/js/3.3717fb3a.chunk.js": "/static/js/3.3717fb3a.chunk.js",
     "static/js/3.3717fb3a.chunk.js.map": "/static/js/3.3717fb3a.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.d32b7115.chunk.js.LICENSE.txt": "/static/js/2.d32b7115.chunk.js.LICENSE.txt",
+    "static/js/2.1c36f2d2.chunk.js.LICENSE.txt": "/static/js/2.1c36f2d2.chunk.js.LICENSE.txt",
     "static/media/app-santander.c3fb94d9.svg": "/static/media/app-santander.c3fb94d9.svg",
     "static/media/back-arr.a88be7ce.svg": "/static/media/back-arr.a88be7ce.svg",
     "static/media/callout.799a2607.svg": "/static/media/callout.799a2607.svg",
@@ -31,7 +31,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.21533f8c.js",
-    "static/js/2.d32b7115.chunk.js",
-    "static/js/main.d8554c29.chunk.js"
+    "static/js/2.1c36f2d2.chunk.js",
+    "static/js/main.411c3f91.chunk.js"
   ]
 }
