@@ -1,40 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.ad76d06d.chunk.js",
-    "main.js.map": "/static/js/main.ad76d06d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ce9a1a5f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ce9a1a5f.js.map",
-    "static/js/2.0df72890.chunk.js": "/static/js/2.0df72890.chunk.js",
-    "static/js/2.0df72890.chunk.js.map": "/static/js/2.0df72890.chunk.js.map",
-    "static/js/3.7efd17bf.chunk.js": "/static/js/3.7efd17bf.chunk.js",
-    "static/js/3.7efd17bf.chunk.js.map": "/static/js/3.7efd17bf.chunk.js.map",
+    "main.css": "/static/css/main.621252ba.css",
+    "main.js": "/static/js/main.8770a052.js",
+    "static/js/787.debde7f8.chunk.js": "/static/js/787.debde7f8.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.0df72890.chunk.js.LICENSE.txt": "/static/js/2.0df72890.chunk.js.LICENSE.txt",
-    "static/media/app-santander.c3fb94d9.svg": "/static/media/app-santander.c3fb94d9.svg",
-    "static/media/back-arr.a88be7ce.svg": "/static/media/back-arr.a88be7ce.svg",
-    "static/media/callout.799a2607.svg": "/static/media/callout.799a2607.svg",
-    "static/media/chevron.ad9394b5.svg": "/static/media/chevron.ad9394b5.svg",
-    "static/media/coffee.464d4d46.svg": "/static/media/coffee.464d4d46.svg",
-    "static/media/cyclists.d89f5ca9.svg": "/static/media/cyclists.d89f5ca9.svg",
-    "static/media/document_scan.5e29ebf6.svg": "/static/media/document_scan.5e29ebf6.svg",
-    "static/media/envelope-bubble.ee2378c7.svg": "/static/media/envelope-bubble.ee2378c7.svg",
-    "static/media/envelope.2ca24284.svg": "/static/media/envelope.2ca24284.svg",
-    "static/media/face_scan.63b0fb1d.svg": "/static/media/face_scan.63b0fb1d.svg",
-    "static/media/fscs.82fe5df2.svg": "/static/media/fscs.82fe5df2.svg",
-    "static/media/info.4355c41e.svg": "/static/media/info.4355c41e.svg",
-    "static/media/nice-work.32ab5db8.svg": "/static/media/nice-work.32ab5db8.svg",
-    "static/media/overdraft-bubble.844c426d.svg": "/static/media/overdraft-bubble.844c426d.svg",
-    "static/media/overdraft.b13ccb4e.svg": "/static/media/overdraft.b13ccb4e.svg",
-    "static/media/question.2100f6f1.svg": "/static/media/question.2100f6f1.svg",
-    "static/media/sbb_logo.9c2d3640.svg": "/static/media/sbb_logo.9c2d3640.svg",
-    "static/media/sent.3a53cff3.svg": "/static/media/sent.3a53cff3.svg",
-    "static/media/switch-guarantee.aa3e9e59.svg": "/static/media/switch-guarantee.aa3e9e59.svg",
-    "static/media/walking-figure.bc8b3f68.svg": "/static/media/walking-figure.bc8b3f68.svg",
-    "static/media/warning.bca42c9f.svg": "/static/media/warning.bca42c9f.svg"
+    "main.621252ba.css.map": "/static/css/main.621252ba.css.map",
+    "main.8770a052.js.map": "/static/js/main.8770a052.js.map",
+    "787.debde7f8.chunk.js.map": "/static/js/787.debde7f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce9a1a5f.js",
-    "static/js/2.0df72890.chunk.js",
-    "static/js/main.ad76d06d.chunk.js"
+    "static/css/main.621252ba.css",
+    "static/js/main.8770a052.js"
   ]
 }
