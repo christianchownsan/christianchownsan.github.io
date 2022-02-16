@@ -1,14 +1,11 @@
 name: deploy
-
 on:
   push:
     branches:
       - main
-
 jobs:
   build-and-deploy:
     concurrency: ci-${{ github.ref }}
-    name: Build and deploy
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
