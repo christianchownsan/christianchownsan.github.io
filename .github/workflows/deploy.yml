@@ -1,0 +1,34 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    concurrency: ci-${{ github.ref }}
+    name: Build and deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+      - uses: actions/checkout@v2
+
+      - name: Use Node 14 🛹
+        uses: actions/setup-node@v1
+        with:
+          node-version: "14.x"
+
+      - name: Install 🚧
+        run: "yarn --frozen-lockfile"
+        working-directory: .
+
+      - name: Build 🔧
+        run: "yarn build"
+        working-directory: .
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        with:
+          branch: gh-pages
+          folder: build
