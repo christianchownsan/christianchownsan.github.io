@@ -119,7 +119,7 @@ function App() {
   return (
     <div className="app">
       <h1 className="app__title">
-        Please fill out the answers below and hit submit. All submissions are
+        Please fill out the answers below and hit submit - all submissions are
         completely anonymous.
       </h1>
       <section
