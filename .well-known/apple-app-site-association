@@ -3,6 +3,15 @@
     "apps": [],
     "details": [
       {
+        "appIDs": [
+          "5Y475L9W26.uk.co.santander.businessBankingAlpha.ul",
+          "5Y475L9W26.uk.co.santandertest.universallinks"
+        ],
+        "paths": [
+          "*"
+        ]
+      },
+      {
         "appID": "5Y475L9W26.uk.co.santandertest.universallinks",
         "paths": [
           "*"
