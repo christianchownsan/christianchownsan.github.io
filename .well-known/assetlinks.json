@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.co.santander.businessbankingUK.ul",
+      "sha256_cert_fingerprints": [
+        "D9:FD:D1:EB:32:EC:D0:3F:19:7E:70:D4:9E:53:0B:D2:25:A5:19:29:B4:94:AE:47:8A:A5:1B:87:B6:59:2F:EF"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.co.santandertest.universallinks",
+      "sha256_cert_fingerprints": [
+        "1C:87:BD:36:02:E3:43:C0:06:3C:2D:33:50:D3:CF:D1:7D:C1:E9:97:28:54:E6:7D:7E:D7:97:3A:E3:18:8C:CC"
+      ]
+    }
+  }
+]
