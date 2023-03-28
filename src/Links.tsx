@@ -3,7 +3,7 @@ import "./links.scss";
 export function Links() {
   return (
     <div className="links">
-      <h1 className="links__title">christianchownsan.github.io</h1>
+      <h1 className="links__title">Universal links</h1>
       <p className="links__p">
         Link to{" "}
         <a
